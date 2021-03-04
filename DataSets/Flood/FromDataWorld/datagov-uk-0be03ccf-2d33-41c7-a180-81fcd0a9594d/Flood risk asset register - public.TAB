@@ -1,0 +1,18 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "Neutral"
+  Fields 6
+    NAME Char (55) ;
+    REFERENCE Char (14) ;
+    ASSETTYPE Char (20) ;
+    ASSETLOCATION Char (62) ;
+    CNTR_X Float ;
+    CNTR_Y Float ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "4699f80d-a6b2-41e4-b2f3-e08919295d0b"
+end_metadata
